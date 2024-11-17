@@ -1,7 +1,8 @@
-# Perlin Noise Galaxy
-# Overveiw
+# Perlin Nebula Generator
+
+## Overveiw
 This project was created in unity for one of my art class assignments, which tasked us to create art from randomness. 
-At the time, I was exploring how to use Perlin noise generation techniques to generate noise, and so decide to create a program 
+At the time, I was exploring how to use Perlin noise generation techniques to generate noise, and so decided to create a program 
 that generates nebulas from Perlin noise.
 
 ## controls
